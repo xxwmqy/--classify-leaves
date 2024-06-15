@@ -1,6 +1,7 @@
 ## 深度学习课程设计
 
 kaggle 竞赛-classify_leaves
+https://www.kaggle.com/competitions/classify-leaves
 
 ### 题目
 
